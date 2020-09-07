@@ -16,7 +16,7 @@
 
 
 <h5> Target Audience : </h5>
- 2<sup>nd</sup> and 3<sup>rd</sup>year Electronics and Communication Engineering students and faculties
+ 2<sup>nd</sup> and 3<sup>rd</sup> year Electronics and Communication Engineering students and faculties
 
 <h5> Course Alignment : </h5>
 Analog and Digital Communication.

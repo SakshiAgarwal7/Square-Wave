@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
 <b> Lab | <b> Communication Lab-II
-<b> Experiment|    <p align="justify"> <b>1. To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p><br>
+<b> Experiment|    <p align="justify"> <b>1. To construct a square wave with the help of fundamental frequency and its harmonic component.</p><br>
  
 <h5> About the Lab (Objective) :
 </h5> <p align="justify">This lab is for understanding of the functioning of thyristor and its application as half wave controlled rectifier. At the end of the module the student would be able to understand the role of firing angle to control the DC value of output voltage and would be able to justify the name of controlled rectifier for such type of circuit.</p><br>
@@ -16,10 +16,10 @@
 
 
 <h5> Target Audience : </h5>
- 2<sup>nd</sup> and 3<sup>rd</sup>year Electronics and Communication Engineering students and  faculties
+ 2<sup>nd</sup> and 3<sup>rd</sup>year Electronics and Communication Engineering students and faculties
 
 <h5> Course Alignment : </h5>
-Power Electronics.
+Analog and Digital Communication.
 
 <h5> Universities Mapped : </h5>
 AKTU Lucknow
@@ -44,10 +44,10 @@ AKTU Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Siddhant Pratap Singh | Student | Electrical Engineering | B.N.C.E.T, Lucknow |siddhantpratapsingh46@gmail.com
-2 |Anwar Abbas | Student | Computer Science | B.N.C.E.T, Lucknow |anwarabbas660@gmail.com
-3 |Sakshi Agarwal | Student | Computer Science | B.N.C.E.T, Lucknow |sasakshiagarwal369@gmail.com
-4 |Shah Alam  | Student | Computer Science | B.N.C.E.T, Lucknow |shahalama44@gmail.com
+1 |Adab Ishtiaq | Student | Electrical Engineering | B.N.C.E.T, Lucknow |adabishtiaq123@gmail.com
+2 |Sakshi Agarwal | Student | Computer Science | B.N.C.E.T, Lucknow |sasakshiagarwal369@gmail.com
+3 |Rupali Srivastava | Student | Computer Science | B.N.C.E.T, Lucknow |rupalichandrasrivastava@gmail.com
+4 |Anuj  | Student | Computer Science | B.N.C.E.T, Lucknow |anujv962@gmail.com
 
 
 <br>

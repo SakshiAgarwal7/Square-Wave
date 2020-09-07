@@ -2,9 +2,9 @@
 
 <br>
 
-<b>Discipline | <b>Electrical Engineering
+<b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b> Power Electronics
+<b> Lab | <b> Communication Lab-II
 <b> Experiment|    <p align="justify"> <b>1. To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p><br>
  
 <h5> About the Lab (Objective) :
@@ -16,7 +16,7 @@
 
 
 <h5> Target Audience : </h5>
- 3<sup>rd</sup> year Electrical Engineering students, Electrical and Electronics faculties
+ 2<sup>nd</sup> and 3<sup>rd</sup>year Electronics and Communication Engineering students and  faculties
 
 <h5> Course Alignment : </h5>
 Power Electronics.
@@ -35,11 +35,11 @@ AKTU Lucknow
 <b> Department | Electrical Engineering
 #### Mentor Details
 
-<b>Mentored by | </b> Dr. Arvind Pandey
+<b>Mentored by | </b> 
 :--|:--|
-<b> Institute | </b> MIET Meerut
-<b> Email id|     </b> arvind.pandey@miet.ac.in
-<b> Department | Electronics and Communication Engineering
+<b> Institute | </b> 
+<b> Email id|     </b> 
+<b> Department | 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id

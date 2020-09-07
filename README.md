@@ -1,57 +1,53 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Computer Science and Engineering
+<b>Discipline | <b>Electrical Engineering
 :--|:--|
-<b> Lab | <b> KCS-101/KCS-201
-<b> Experiment|     <b> 1. (KCS-101/KCS-201) WAP that Swaps values of two variables using a third variable.
+<b> Lab | <b> Power Electronics
+<b> Experiment|    <p align="justify"> <b>1. To obtain the simulation of single phase half wave controlled rectifier with R and RL load and plot load voltage and load current waveforms.</p><br>
+ 
+<h5> About the Lab (Objective) :
+</h5> <p align="justify">This lab is for understanding of the functioning of thyristor and its application as half wave controlled rectifier. At the end of the module the student would be able to understand the role of firing angle to control the DC value of output voltage and would be able to justify the name of controlled rectifier for such type of circuit.</p><br>
+ <h5> About the Experiment : </h5>
+<p align="justify">The experiment is basically to control of the load voltage. This aim is achieved by the use of thyristor which will conduct only when it is forward biased with a firing current pulse at the gate terminal. The average value and RMS value of the load voltage is controlled by delaying the firing pulse by an angle α. The firing angle (α) is simply measured from the position of natural conduction of diode. If the load is resistive in nature, the current waveform will be similar to voltage waveform in shape. The thyristor will go into non-conducting state (OFF state) when the current try to approach a negative value with inductive load.</p>
 
-<h5> About the Lab (Objective) : </h5>
 
-To learn how to swap values of two variables using a third variable.
 
-<h5> About the Experiment : </h5>
-
-Swapping is a technique in which variables exchange their values. In computer programming, the act of swapping two variables refers to mutually exchanging the values of the variables. Usually, this is done with the data in memory.
 
 <h5> Target Audience : </h5>
-
- Aktu students/ B.tech 1st year (CS/IT) students.
+ 3<sup>rd</sup> year Electrical Engineering students, Electrical and Electronics faculties
 
 <h5> Course Alignment : </h5>
-
-C/CPP Programming Lab
+Power Electronics.
 
 <h5> Universities Mapped : </h5>
+AKTU Lucknow
+<br>
+<br>
 
-  ABDUL KALAM TECHNICAL UNIVERSITY
 
-<b>Name of Developer | <b>Jasvant Kumar
+
+<b>Name of Developer |</b>Dr. Akhilesh Kumar Gupta 
 :--|:--|
-<b> Institute | <b> B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY
-<b> Email id|     <b> er.jaswantsingh786@gmail.com
-<b> Department | Computer Science and Engineering
-
+<b> Institute | </b> B.N. COLLEGE OF ENGINEERING AND TECHNOLOGY
+<b> Email id|     </b>akhileshgupta08@gmail.com 
+<b> Department | Electrical Engineering
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | </b> Dr. Arvind Pandey
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
-
+<b> Institute | </b> MIET Meerut
+<b> Email id|     </b> arvind.pandey@miet.ac.in
+<b> Department | Electronics and Communication Engineering
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Jasvant Kumar | Faculty | Computer Science | B.N.C.E.T, Lucknow | er.jaswantsingh786@gmail.com
-2 | Raza Mehndi | Student | Computer Science | B.N.C.E.T, Lucknow |razamehndi81@example.com
-3 | Aasiya Zabeen | Student | Computer Science | B.N.C.E.T, Lucknow |syedasiya000@example.com
-4 | Rudra Narayan Gupta | Student | Computer Science | B.N.C.E.T, Lucknow |rudra9506@example.com
-5 | AKHILESH TRIPATHI | Student | Computer Science | B.N.C.E.T, Lucknow |akhilesh03tripathi@example.com
+1 |Siddhant Pratap Singh | Student | Electrical Engineering | B.N.C.E.T, Lucknow |siddhantpratapsingh46@gmail.com
+2 |Anwar Abbas | Student | Computer Science | B.N.C.E.T, Lucknow |anwarabbas660@gmail.com
+3 |Sakshi Agarwal | Student | Computer Science | B.N.C.E.T, Lucknow |sasakshiagarwal369@gmail.com
+4 |Shah Alam  | Student | Computer Science | B.N.C.E.T, Lucknow |shahalama44@gmail.com
 
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>

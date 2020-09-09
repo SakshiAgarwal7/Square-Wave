@@ -5,7 +5,7 @@
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
 <b> Lab | <b> Communication Lab-II
-<b> Experiment|    <p align="justify"> <b>1. To construct a square wave with the help of fundamental frequency and its harmonic component.
+<b> Experiment|    <b>1. To construct a square wave with the help of fundamental frequency and its harmonic component.
  
 <h5> About the Lab (Objective) :
 </h5> <p align="justify">This lab is designed for the students to develope the understanding of signal construction by conductiton of experiments with signals. At the end of the module, students would be able to understand the use of these signals and their properties in the modulation process.</p>

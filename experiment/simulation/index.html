@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css\Simulator.css">
+       <script type="text/javascript" src="js\sin_plot.js"></script>
+	   <script type="text/javascript" src="js\harmonic_design.js"></script>
+	<script type="text/javascript" src="js\Vm_change.js"></script> 
+	<script type="text/javascript" src="js\vmax_change.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <title>Simulator</title>
+
+</head>
+<body data-demo-id="animation"; style=onload="init()">
+	<div class="wholebody">
+		<div class="heading col">
+    		    <b>To construct a square wave with the help of fundamental frequency and its harmonic component</b>
+      	</div>
+    	<div class="row no-gutters">
+    		<div class="col-md-6 no-gutters">
+    			<div class="leftside">
+    				<div class="description">
+    					<div class="dropdown">
+                    		<p class="sub_heading"> INSTRUCTION</p>
+                    		                		</div>
+            		</div>
+					<div class="controls">
+            			<p class="sub_heading"> CONTROLS</p>
+            			<div class="table">
+            				<table id="mytable" border="2">                    
+                        		<tbody>
+          						<form name="myForm" method = "get" style="width:500px; font-size: medium; font-family:Arial">
+                        			<tr>
+                            			<th>V<sub>m</sub> (V) Peak Voltage</th>
+                            			<th><input type="range" orient="vertical" id="Vp" min="5" max="25" step='5' value="5"  oninput="draw()" enabled=true;></th>
+                            			<th><input type="text" id="Voltage_amplitude" placeholder="Voltage_amplitude(5V)" readonly ><label id="Voltage_amplitude">V</label></th>
+                        			</tr>
+                        			<tr>
+                            			<th>Order of harmonics</th>
+                            			<th><input type="range" orient="vertical" id="HA" min="1" max="55" step='2' value="1" oninput="draw()" enabled=true></th>
+                            			<th><input type="text" id="HAN" placeholder="harmonic order (1)" readonly >  <label id="HAN">Order</label></th>
+                        			</tr>
+                        			
+                        			<tr>
+                            			<th>f<sub>o</sub> (Hz) Sine frequency</th>
+                            			<th><input type="range" orient="vertical" id="fo" min="20" max="100" step='5' value="20" oninput="draw()" enabled=true;></th>
+                            			<th><input type="text" id="Frequency" placeholder="Frequency (20 Hz)" readonly >  <label id="Frequency">Hz</label></th>
+                        			</tr>                        	
+                        			<tr>
+                            			<th>V<sub>max</sub> (V) for plot</th>
+                            			<th><input type="range" orient="vertical" id="Vmax" min="12" max="52" step='10' value="12"  oninput="Vrange()" enabled=true;></th>
+                            			<th><input type="text" id="V_max" placeholder="Range of y-axis at least 2Vp (12)" readonly >  <label id="V_max">V</label></th>
+                        			</tr>                        	
+                        			<tr>
+                            			<th>T<sub>max</sub> (s) for plot</th>
+                            			<th><input type="range" orient="vertical" id="Tmax" min="0.1" max="1" step='0.1' value="0.1"  oninput="Trange()" enabled=true;></th>
+                            			<th><input type="text" id="T_max" placeholder="Range of x-axis (0.1)" readonly >  <label id="T_max">sec</label></th>
+                        			</tr>
+                        			<tr>
+                					<th>Total points for plot:</th>
+                					<th ><input type="text" name="N" size="10" value="1000"></th>
+                					<th><input type="button" value="Plot Square Wave" onclick="draw()"></th>
+									
+                				</tr>
+                				</form>
+                        		</tbody>
+                			</table>
+            			</div>            	
+            		</div>
+
+    			</div>
+    		</div>
+
+<!-- ###############rightside########################################################################################################### -->
+    		<div class="col-md-6 no-gutters">
+    			<div class="rightside">
+    				<div class="circuitsection">
+    					<div class="ckt">
+                		<p class="sub_heading"> Different Frequency Component Waveforms</p>
+						<th><input type="button" value="Draw Harmonics" onclick="draw_harmonic()"></th>
+                                                      <p><canvas id="canvs" width="450" height="450"></canvas></p>
+                                
+
+
+                		</div>
+    				</div>
+    				              	</form>
+                		
+    			</div>
+    		</div>
+
+    		<!-- ###############rightside########################################################################################################### -->
+    		
+    		<div class="col-md-12 no-gutters">
+    			<div class="buttom">
+    				<div class="output_graph">
+    					<div class="grph">
+                		<p class="sub_heading"> Square Wave Construction</p>
+                		<div class="V">V<sub>o</sub></div>
+                		<div id="out"><br><br><br>
+              				<p><canvas id="canv_s" width="1050" height="201"></canvas></p>
+					  	</div>
+                		</div>
+    				</div>
+    			<!-- </form> -->
+    			</div>
+    		</div>
+    	</div>
+
+
+	</div>
+</body>
+</html>

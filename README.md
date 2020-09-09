@@ -8,9 +8,9 @@
 <b> Experiment|    <p align="justify"> <b>1. To construct a square wave with the help of fundamental frequency and its harmonic component.</p>
  
 <h5> About the Lab (Objective) :
-</h5> <p align="justify">This lab is for understanding of the functioning of thyristor and its application as half wave controlled rectifier. At the end of the module the student would be able to understand the role of firing angle to control the DC value of output voltage and would be able to justify the name of controlled rectifier for such type of circuit.</p><br>
+</h5> <p align="justify">This lab is designed for the students to develope the understanding of signal construction by conductiton of experiments with signals. At the end of the module, students would be able to understand the use of these signals and their properties in the modulation process.</p><br>
  <h5> About the Experiment : </h5>
-<p align="justify">The experiment is basically to control of the load voltage. This aim is achieved by the use of thyristor which will conduct only when it is forward biased with a firing current pulse at the gate terminal. The average value and RMS value of the load voltage is controlled by delaying the firing pulse by an angle α. The firing angle (α) is simply measured from the position of natural conduction of diode. If the load is resistive in nature, the current waveform will be similar to voltage waveform in shape. The thyristor will go into non-conducting state (OFF state) when the current try to approach a negative value with inductive load.</p>
+<p align="justify">This experiment is for understanding of the electronically construction of square wave with the help of periodic sine wave of fundamental frequency and its harmonic contents. Fourier series is a method to represent any non sinusoidal waveform with a combination of fundamental frequency sine wave and its harmonic components. at the end of module, students will be able to understand to build a square wave up from multiple sine waves at different frequencies.</p>
 
 
 

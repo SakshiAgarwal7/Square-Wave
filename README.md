@@ -32,10 +32,10 @@ AKTU Lucknow
 <b> Department | Electrical Engineering
 #### Mentor Details
 
-<b>Mentored by | </b> 
+<b>Mentored by | </b>Mr. Senthil Subramanian 
 :--|:--|
-<b> Institute | </b> 
-<b> Email id|     </b> 
+<b> Institute | </b> HCST, Mathura
+<b> Email id|     </b> tss.senthil.hcst@sgei.org
 <b> Department | 
 #### Contributors List
 

@@ -1,16 +1,14 @@
 ## Pedagogy (Round 1)
 <p align="center">
-
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 <br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Experiment Communication Lab-II Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Communication Lab-II
+<b> Experiment|     <b> 1. To construct a square wave with the help of fundamental frequency and its harmonic component.
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,7 +19,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Reinforce theoretical concept
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -43,13 +41,12 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Name of Instructional Strategy  :    <u> Expository for experiment
+###### Assessment Method: Formative Assessment
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
- Brief description as per handout
-
+Student will able to make the proper connections with identification of components and their arrangement. Further, students would be able to set the values of different components according to their needs. These values are inserted into the theoretical formulas and concept implemented into the simulator. By hitting the draw waveform, Average_Voltage and RMS_Voltage, the simulator will be able to calculate the output values and to draw the different waveforms by the help of previously implemented formulas.
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
